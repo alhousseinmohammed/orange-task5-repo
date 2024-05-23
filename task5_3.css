@@ -1,0 +1,41 @@
+.biggest {
+  background-color: #2596be;
+  height: 650px;
+  width: 1200px;
+  padding: 10px;
+  position: relative;
+}
+
+.sticker {
+  display: flex;
+  flex-direction: row;
+  flex-basis: content;
+  background-color: white;
+  width: 75%;
+  height: 75%;
+  position: absolute;
+  right: 12px;
+  bottom: 20px;
+  justify-content: space-around;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  width: 170px;
+  text-align: left;
+}
+h1 {
+  text-align: center;
+  text-shadow: 2px 1px 7px;
+}
+
+.skill {
+  font-size: xx-large;
+  color: white;
+  margin-left: 40px;
+  text-shadow: 1px 1px 4px black;
+  position: absolute;
+  left: 120px;
+  top: 120px;
+}

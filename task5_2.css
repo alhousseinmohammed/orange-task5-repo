@@ -1,0 +1,47 @@
+.above {
+    display: flex;
+    background-color: white;
+    height: 400px;
+    
+}
+.head {
+    background-color: silver;
+    margin: 2px;
+
+}
+.body {
+    background-color: silver;
+    margin: 2px;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    background-color: silver;
+    margin: 5px 2px;
+}
+
+.below {
+    display: flex;
+
+    background-color: white;
+}
+
+.below .item {
+    width: 49%;
+}
+
+.special .head{
+    background-color: rgb(255, 215, 141);
+}
+.special .body{
+    background-color: rgb(255, 215, 141);
+}
+
+.special {
+    background-color: rgb(255, 215, 141);
+}
+
+.profile {
+    border-radius: 20px;
+}

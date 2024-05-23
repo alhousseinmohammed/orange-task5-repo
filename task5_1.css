@@ -1,0 +1,48 @@
+.ib {
+  display: inline-block;
+  width: 40%;
+  background-color: white;
+}
+.profile-container {
+  display: inline;
+}
+#first {
+  float: right;
+  width: 70%;
+  overflow: hidden;
+  height: 1000px;
+}
+#second {
+  width: 25%;
+}
+* {
+  text-align: right;
+  direction: rtl;
+}
+
+a {
+  text-decoration: none;
+}
+div {
+  margin: 10px;
+}
+.profile {
+  border-radius: 200px;
+  height: 70px;
+  width: 70px;
+  float: right;
+}
+p {
+  background-color: white;
+}
+
+#second {
+  height: 850px;
+}
+
+a {
+  font-size: x-large;
+}
+h1 {
+  font-size: xx-large;
+}
